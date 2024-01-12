@@ -1,0 +1,162 @@
+{
+    "jobTitle": [
+        {
+            "title": "A Data Scientist",
+            "color": "rgb(57, 153, 0)"
+        },
+        {
+            "title": "A Life",
+            "color": "rgb(157, 100, 0)"
+        },
+        {
+            "title": "a founder and CEO at JT Devs",
+            "color": "rgb(153, 76, 150)"
+        },
+        {
+            "title": "an IT Lecturer",
+            "color": "rgb(0, 172, 230)"
+        }    
+    ],
+    "resume": [
+        {
+            "id": 1,
+            "year": 2018,
+            "description": "Graduated from a youth organisation called MY.Inc and became a facilitator, helping develop toung leaders in our community",
+            "place": "MY Inc",
+            "type": "proof",
+            "proof": "https://i.postimg.cc/Bv71Dsf0/Skills1.jpg"
+        },
+        {
+            "id": 2,
+            "year": 2020,
+            "description": "Started working at The Braai Corner",
+            "place": "The Braai Corner",
+            "type": "proof",
+            "proof": "https://i.postimg.cc/g2NwFdJZ/Skills2.jpg"
+        },
+        {
+            "id": 3,
+            "year": 2021,
+            "description": "Worked at Spar in Kromboom as a Griller",
+            "place": "Spar",
+            "type": "proof",
+            "proof": "https://i.postimg.cc/85rs66bR/Skills3.jpg"
+        },
+        {
+            "id": 4,
+            "year": 2022,
+            "description": "Gained experience in Software Development",
+            "place": "Home/Online",
+            "type": "proof",
+            "proof": "https://i.postimg.cc/9M3CsNG9/Skills4.jpg"
+        },
+        {
+            "id": 5,
+            "year": 2022,
+            "description": "Helped out at another youth organisation called Youth Uncapped, but soon left to join a close friend of mine in starting his own youth organisation called Youth Mastery",
+            "place": "Youth Uncapped/Youth Mastery",
+            "type": "proof",
+            "proof": "https://i.postimg.cc/HxtR3S3d/Skills5.jpg"
+        }
+    ],
+    "skills": [
+        {
+            "title": "Web Development",
+            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+        },
+        {
+            "title": "Database",
+            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+        },
+        {
+            "title": "API",
+            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+        },
+        {
+            "title": "Programming",
+            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Haanim",
+            "surname": "Pietersen",
+            "quotes": "Luqmaan epitomizes the essence of a data scientist with a remarkable blend of confidence, positivity, and strong work ethic. His unwavering belief in both himself and his colleagues creates an environment where authenticity thrives, leaving no room for awkwardness. Beyond his affable nature, Luqmaan stands out as an exceptional and dedicated coder. His commitment to his craft and the pursuit of excellence make him not only a valuable team member but also an ideal candidate for leadership roles. I wholeheartedly recommend Luqmaan Toffey as a standout leader who seamlessly combines responsibility and coding prowess in the dynamic field of data science.",
+            "profile": "https://i.postimg.cc/5yK3JymX/Testi1.jpg"
+        },
+        {
+            "name": "Veronique",
+            "surname": "Nappie",
+            "quotes": "Luqmaan is one of the best people I've met. The most distinct thing about him is his authentic, infectious energy. He always turns up the energy in a room. In terms of his work, I've seen him display so much creativity and always manages to execute his tasks with a surprising amount of efficiency. He has a lot of potential for leadership which I'm sure he will succeed at. I know he is going to be great at any venture he is a part of and I can't wait to see him make it happen.",
+            "profile": "https://i.postimg.cc/3wDJCcqV/Testi2.jpg"
+        },
+        {
+            "name": "Pinda",
+            "surname": "Fortuin",
+            "quotes": "In the realm of technology, Luqmaan Toffey stands out as an exceptional full stack developer and aspiring data scientist. His supportive and friendly approach creates a collaborative work environment, turning challenges into shared successes. With a brilliant sense of humor, Luqmaan brings joy to the workplace, making every project a delightful journey. .Grateful to work alongside this remarkable individual.",
+            "profile": "https://i.postimg.cc/PqtnNFj1/Testi3.jpg"
+        },
+        {
+            "name": "Tamlin Leigh",
+            "surname": "Geyer",
+            "quotes": "Luqmaan Toffey stands as an outstanding full-stack developer, boasting an extraordinary skill set that transcends conventional boundaries. His unwavering commitment to mastering the realms of both development and data science sets him in a league of his own, highlighting a rare combination of versatility and ambition. <br><br> As an exceptional colleague and cherished friend, Luqmaan's fervor for continuous learning serves as a beacon of inspiration for those fortunate enough to work alongside him. His dedication not only elevates the collaborative spirit but also foretells a future where he undeniably emerges as a pivotal figure, poised to excel and lead in the dynamic worlds of development and data science. <br><br> Luqmaan Toffey's prowess is not just a testament to his current capabilities but also a glimpse into the potential greatness that lies ahead. It is no doubt that his unique blend of technical expertise and unyielding passion positions him as an invaluable asset, drawing the attention and admiration of esteemed companies in search of top-tier talent for their most challenging endeavors. In the landscape of data science and development, Luqmaan is a standout professional ready to make significant contributions to the next frontier of technological innovation.",
+            "profile": "https://i.postimg.cc/t4s2k3N8/Testi4.jpg"
+        },
+        {
+            "name": "Zubair",
+            "surname": "Moerat",
+            "quotes": "I wholeheartedly recommend Luqmaan Toffey for any software development projects or as an aspiring data scientist. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time. His capabilities with regards to data science will surely make him an expert within the field.",
+            "profile": "https://i.postimg.cc/nL8gQSf3/Testi5.jpg"
+        },
+        {
+            "name": "Jodie",
+            "surname": "Smith",
+            "quotes": "Luqmaan Toffey is a remarkable fullstack developer with an exceptional skill set that extends beyond conventional boundaries. His dedication to mastering both development and data science sets him apart, showcasing a rare combination of versatility and ambition. As a colleague and friend, Luqmaan's passion for continuous learning not only inspires those around him but also augurs well for a future where he undoubtedly will excel as a leading figure in both realms.",
+            "profile": "https://i.postimg.cc/j2ryHNS0/Testi6.jpg"
+        }
+    ],
+    "projects":[
+        {
+            "name": "Bootstrap Ecommerce Self Eg",
+            "description": "Made an example website for a show I enjoy hoping to one day finish it. I used html, css and bootstrap to make this website",
+            "image": "https://i.postimg.cc/sXn8M6g0/Project1.png",
+            "gitHub": "https://github.com/LuiV228/bootstrapE-Commerce.git",
+            "netlify": "https://luqmaan-one-piece-ecommerce-eg.netlify.app/"
+        },
+        {
+            "name": "Calculator",
+            "description": "Made a calculator of my own design. I used html and css to make this website",
+            "image": "https://i.postimg.cc/tgpm2Q1M/Project2.png",
+            "gitHub": "https://github.com/LuiV228/calculator.git",
+            "netlify": "https://luqmaan-calculator.netlify.app/"
+        },
+        {
+            "name": "Keyboard",
+            "description": "Made a keyboard with my own styling. I used html and css to make this website",
+            "image": "https://i.postimg.cc/nry3m6bT/Project3.png",
+            "gitHub": "https://github.com/LuiV228/luqmaanKeyboard.git",
+            "netlify": "https://luqmaan-keyboard.netlify.app/"
+        },
+        {
+            "name": "First Trial Ecommerce Website",
+            "description": "Made this website for my part-time job hoping to one day finish it for them. I used html and css to make this website",
+            "image": "https://i.postimg.cc/7Y7kR46H/Project4.png",
+            "gitHub": "https://github.com/LuiV228/EcommerceWebsite.git",
+            "netlify": "https://ecommerce-trial.netlify.app/"
+        },
+        {
+            "name": "Bootstrap Portfolio Project",
+            "description": "I made this website as an idea for the current webpage that you see before you. I used html, css and bootstrap to make this website",
+            "image": "https://i.postimg.cc/rmK6NX3L/Project5.png",
+            "gitHub": "https://github.com/LuiV228/bootstrapPortfolio.git",
+            "netlify": "https://luqmaanbootstrapportfolio.netlify.app/"
+        },
+        {
+            "name": "LT-Gunslingers-Project",
+            "description": "I made this website for my love of guns after learning javascript. I used html, css, bootstrap and javascript to make this website",
+            "image": "https://i.postimg.cc/3JMMmqZP/Project6.png",
+            "gitHub": "https://github.com/LuiV228/LT-Gunslingers-Project.git",
+            "netlify": "https://lt-gunslingers-luqmaan.netlify.app/"
+        }
+    ]
+}
