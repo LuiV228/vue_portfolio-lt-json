@@ -118,14 +118,14 @@
     "projects":[
         {
             "name": "Bootstrap Ecommerce Eg",
-            "description": "Made an example website for a show I enjoy hoping to one day finish it. I used html, css and bootstrap to make this website",
+            "description": "Made an example website for an anime show I really enjoy hoping to one day finish it. I used html, css and bootstrap to make this website",
             "image": "https://i.postimg.cc/sXn8M6g0/Project1.png",
             "github": "https://github.com/LuiV228/bootstrapE-Commerce.git",
             "netlify": "https://luqmaan-one-piece-ecommerce-eg.netlify.app/"
         },
         {
             "name": "Calculator",
-            "description": "Made a calculator of my own design. The calculator is fully functional and does calculate simple equations. I used html and css to make this webpage",
+            "description": "Made a calculator of my own design. The calculator is fully functional and does calculate equations. I used html and css to make this webpage",
             "image": "https://i.postimg.cc/tgpm2Q1M/Project2.png",
             "gitHub": "https://github.com/LuiV228/calculator.git",
             "netlify": "https://luqmaan-calculator.netlify.app/"
