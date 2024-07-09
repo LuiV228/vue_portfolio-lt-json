@@ -82,13 +82,7 @@
             "name": "Haanim",
             "surname": "Pietersen",
             "quotes": "Luqmaan epitomizes the essence of a data scientist with a remarkable blend of confidence, positivity, and strong work ethic. His unwavering belief in both himself and his colleagues creates an environment where authenticity thrives, leaving no room for awkwardness. Beyond his affable nature, Luqmaan stands out as an exceptional and dedicated coder. His commitment to his craft and the pursuit of excellence make him not only a valuable team member but also an ideal candidate for leadership roles. I wholeheartedly recommend Luqmaan Toffey as a standout leader who seamlessly combines responsibility and coding prowess in the dynamic field of data science.",
-            "profile": "https://i.postimg.cc/5yK3JymX/Testi1.jpg"
-        },
-        {
-            "name": "Veronique",
-            "surname": "Nappie",
-            "quotes": "Luqmaan is one of the best people I've met. The most distinct thing about him is his authentic, infectious energy. He always turns up the energy in a room. In terms of his work, I've seen him display so much creativity and always manages to execute his tasks with a surprising amount of efficiency. He has a lot of potential for leadership which I'm sure he will succeed at. I know he is going to be great at any venture he is a part of and I can't wait to see him make it happen.",
-            "profile": "https://i.postimg.cc/3wDJCcqV/Testi2.jpg"
+            "profile": "https://i.ibb.co/Pxhh9cd/Haanim-Professional.png"
         },
         {
             "name": "Pinda",
@@ -97,22 +91,28 @@
             "profile": "https://i.postimg.cc/PqtnNFj1/Testi3.jpg"
         },
         {
+            "name": "Veronique",
+            "surname": "Nappie",
+            "quotes": "Luqmaan is one of the best people I've met. The most distinct thing about him is his authentic, infectious energy. He always turns up the energy in a room. In terms of his work, I've seen him display so much creativity and always manages to execute his tasks with a surprising amount of efficiency. He has a lot of potential for leadership which I'm sure he will succeed at. I know he is going to be great at any venture he is a part of and I can't wait to see him make it happen.",
+            "profile": "https://i.ibb.co/pK7Mdfx/Veronique-Professional.jpg"
+        },
+        {
             "name": "Jay-donn",
             "surname": "Hendricks",
             "quotes": "Luqmaan Toffey stands as an outstanding full-stack developer, boasting an extraordinary skill set that transcends conventional boundaries. His unwavering commitment to mastering the realms of both development and data science sets him in a league of his own, highlighting a rare combination of versatility and ambition. As an exceptional colleague and cherished friend, Luqmaan's fervor for continuous learning serves as a beacon of inspiration for those fortunate enough to work alongside him. His dedication not only elevates the collaborative spirit but also foretells a future where he undeniably emerges as a pivotal figure, poised to excel and lead in the dynamic worlds of development and data science. Luqmaan Toffey's prowess is not just a testament to his current capabilities but also a glimpse into the potential greatness that lies ahead. It is no doubt that his unique blend of technical expertise and unyielding passion positions him as an invaluable asset, drawing the attention and admiration of esteemed companies in search of top-tier talent for their most challenging endeavors. In the landscape of data science and development, Luqmaan is a standout professional ready to make significant contributions to the next frontier of technological innovation.",
-            "profile": "https://i.ibb.co/McsSsbF/Jay-donn-Professional.jpg"
+            "profile": "https://i.ibb.co/64m8gJC/Jay-donn-Professional.jpg"
         },
         {
-            "name": "Zubair",
-            "surname": "Moerat",
-            "quotes": "I wholeheartedly recommend Luqmaan Toffey for any software development projects or as an aspiring data scientist. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time. His capabilities with regards to data science will surely make him an expert within the field.",
-            "profile": "https://i.postimg.cc/nL8gQSf3/Testi5.jpg"
-        },
-        {
-            "name": "Jodie",
-            "surname": "Smith",
+            "name": "Damon",
+            "surname": "Raffels",
             "quotes": "Luqmaan Toffey is a remarkable fullstack developer with an exceptional skill set that extends beyond conventional boundaries. His dedication to mastering both development and data science sets him apart, showcasing a rare combination of versatility and ambition. As a colleague and friend, Luqmaan's passion for continuous learning not only inspires those around him but also augurs well for a future where he undoubtedly will excel as a leading figure in both realms.",
-            "profile": "https://i.postimg.cc/j2ryHNS0/Testi6.jpg"
+            "profile": "https://i.ibb.co/mc4S7Gb/Damon-Professional.jpg"
+        },
+        {
+            "name": "Warren",
+            "surname": "Jaftha",
+            "quotes": "I wholeheartedly recommend Luqmaan Toffey for any software development projects or as an aspiring data scientist. Having worked closely with him, I've witnessed unparalleled technical proficiency and a commitment to delivering high-quality solutions on time. His capabilities with regards to data science will surely make him an expert within the field.",
+            "profile": "https://i.ibb.co/s6qVhsd/Warren-Professional.jpg"
         }
     ],
     "projects":[
