@@ -21,15 +21,15 @@
         {
             "id": 1,
             "year": 2018,
-            "description": "Graduated from a youth organisation called MY.Inc and became a facilitator, helping develop toung leaders in our community",
+            "description": "Graduated from a youth organisation called MY.Inc and became a facilitator, helping develop young leaders in every community throughout Cape Town.",
             "place": "MY Inc",
             "type": "proof",
             "proof": "https://i.postimg.cc/Bv71Dsf0/Skills1.jpg"
         },
         {
             "id": 2,
-            "year": 2020,
-            "description": "Started working at The Braai Corner",
+            "year": 2019,
+            "description": "Started working at The Braai Corner. I grilled meats, prepared food and served customers. I had quite a good experience working there for 5 years.",
             "place": "The Braai Corner",
             "type": "proof",
             "proof": "https://i.postimg.cc/g2NwFdJZ/Skills2.jpg"
@@ -37,7 +37,7 @@
         {
             "id": 3,
             "year": 2021,
-            "description": "Worked at Spar in Kromboom as a Griller",
+            "description": "Worked at Spar in Kromboom as a Griller. Prepared food in a variety of different ways and served customers. This greatly helped with my people skills.",
             "place": "Spar",
             "type": "proof",
             "proof": "https://i.postimg.cc/85rs66bR/Skills3.jpg"
@@ -45,7 +45,7 @@
         {
             "id": 4,
             "year": 2022,
-            "description": "Gained experience in Software Development",
+            "description": "Gained experience in Software Development doing a Software Development Course through Eduvos online. This course kickstarted my IT Journey.",
             "place": "Home/Online",
             "type": "proof",
             "proof": "https://i.postimg.cc/9M3CsNG9/Skills4.jpg"
@@ -53,8 +53,8 @@
         {
             "id": 5,
             "year": 2022,
-            "description": "Helped out at another youth organisation called Youth Uncapped, but soon left to join a close friend of mine in starting his own youth organisation called Youth Mastery",
-            "place": "Youth Uncapped/Youth Mastery",
+            "description": "Helped out at another youth organisation called Youth Uncapped, but soon left to join a close friend of mine in starting his own youth organisation called Youth Mastery.",
+            "place": "Youth Mastery",
             "type": "proof",
             "proof": "https://i.postimg.cc/HxtR3S3d/Skills5.jpg"
         }
@@ -85,10 +85,10 @@
             "profile": "https://i.ibb.co/Pxhh9cd/Haanim-Professional.png"
         },
         {
-            "name": "Pinda",
-            "surname": "Fortuin",
-            "quotes": "In the realm of technology, Luqmaan Toffey stands out as an exceptional full stack developer and aspiring data scientist. His supportive and friendly approach creates a collaborative work environment, turning challenges into shared successes. With a brilliant sense of humor, Luqmaan brings joy to the workplace, making every project a delightful journey. .Grateful to work alongside this remarkable individual.",
-            "profile": "https://i.postimg.cc/PqtnNFj1/Testi3.jpg"
+            "name": "Ammara",
+            "surname": "Hoosen",
+            "quotes": "Luqmaan is more than just a colleague, he's a force of nature! His way of motivating those around him to strive for excellence, kind heart and genuine interest in others have created a sense of belonging and that's hard to find. I'm honored to call him a friend and colleague and I can't wait to see the incredible impact he'll continue to make in his profession.",
+            "profile": "https://i.ibb.co/7yzsfn4/Ammara-Professional.jpg"
         },
         {
             "name": "Veronique",
