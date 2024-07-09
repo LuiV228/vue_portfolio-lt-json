@@ -127,35 +127,35 @@
             "name": "Calculator",
             "description": "Made a calculator of my own design. The calculator is fully functional and does calculate equations. I used html and css to make this webpage",
             "image": "https://i.postimg.cc/tgpm2Q1M/Project2.png",
-            "gitHub": "https://github.com/LuiV228/calculator.git",
+            "github": "https://github.com/LuiV228/calculator.git",
             "netlify": "https://luqmaan-calculator.netlify.app/"
         },
         {
             "name": "Keyboard",
             "description": "Made a keyboard with my own styling. Unfortunately there is no functionality, it just looks cool to me. I used html and css to make this webpage",
             "image": "https://i.postimg.cc/nry3m6bT/Project3.png",
-            "gitHub": "https://github.com/LuiV228/luqmaanKeyboard.git",
+            "github": "https://github.com/LuiV228/luqmaanKeyboard.git",
             "netlify": "https://luqmaan-keyboard.netlify.app/"
         },
         {
             "name": "First Ecommerce Website",
             "description": "Made this website for my part-time job hoping to one day finish it for them as a side project. I used html and css to make this website",
             "image": "https://i.postimg.cc/7Y7kR46H/Project4.png",
-            "gitHub": "https://github.com/LuiV228/EcommerceWebsite.git",
+            "github": "https://github.com/LuiV228/EcommerceWebsite.git",
             "netlify": "https://ecommerce-trial.netlify.app/"
         },
         {
             "name": "Bootstrap Portfolio Project",
             "description": "I made this website as an idea for the current webpage that you see before you. I used html, css and bootstrap to make this website",
             "image": "https://i.postimg.cc/rmK6NX3L/Project5.png",
-            "gitHub": "https://github.com/LuiV228/bootstrapPortfolio.git",
+            "github": "https://github.com/LuiV228/bootstrapPortfolio.git",
             "netlify": "https://luqmaanbootstrapportfolio.netlify.app/"
         },
         {
             "name": "LT-Gunslingers-Project",
             "description": "I made this website for my love of guns after learning javascript. I used html, css, bootstrap and javascript to make this website",
             "image": "https://i.postimg.cc/3JMMmqZP/Project6.png",
-            "gitHub": "https://github.com/LuiV228/LT-Gunslingers-Project.git",
+            "github": "https://github.com/LuiV228/LT-Gunslingers-Project.git",
             "netlify": "https://lt-gunslingers-luqmaan.netlify.app/"
         }
     ]
